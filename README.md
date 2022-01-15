@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Breno Colaço</h1>
+<h1 align="center">Hello, I'm Breno</h1>
 
 <div align="center">
   <a href="https://github.com/brenoc21">
