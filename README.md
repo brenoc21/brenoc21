@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Breno</h1>
 
-<div align="center">
   <a href="https://github.com/brenoc21">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenoc21&show_icons=true&theme=shades-of-purple&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoc21&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
