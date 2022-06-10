@@ -32,6 +32,6 @@
 </div>
 <br/>
   
-- 💻 I'm **Web Developer, Front-End and know some backend too :)**
+- 💻 I'm a **Web Developer :)**
 - 🏠 I’m currently working on Vortex
 - 🌱 I’m currently specializing in **React.JS**
